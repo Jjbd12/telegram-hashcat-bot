@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="con:MessageDrivenService" id="0a187e54-74f2-43ed-b100-29f00d48e1f9" name="mines" type="messagedrivenservice">
+  <con:settings id="bf041cbb-cb42-48da-8460-4af0fb0e6b46">
+    <con:setting id="0a187e54-74f2-43ed-b100-29f00d48e1f9fileName">mines</con:setting>
+  </con:settings>
+  <con:definitionCache/>
+  <con:endpoints>
+    <con:endpoint>http://botsrus24.wordpress.com</con:endpoint>
+  </con:endpoints>
+</con:interface>
